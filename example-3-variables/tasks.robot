@@ -2,8 +2,9 @@
 Documentation       Template robot main suite.
 
 *** Variables ***
-${myName}    moises
+${myName}    Moisés
 
 *** Tasks ***
 Minimal task
+    ${myName}    Set Variable    ${myName} Daniel
     Log    ${myName}
