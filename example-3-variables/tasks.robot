@@ -5,6 +5,7 @@ Documentation       Template robot main suite.
 ${myName}    Moisés
 ${year}    ${2023}
 @{thisIsAList}    cat    dog    ekidna    nice cuy    llama
+&{thisIsADictionary}    username=myuser    password=lfjkdn923
 
 *** Tasks ***
 Minimal task
@@ -16,3 +17,6 @@ Minimal task
     
     Log    ${thisIsAList}
     Log    ${thisIsAList}[3]
+    
+    Log    ${thisIsADictionary}
+    Log    ${thisIsADictionary}[username]
