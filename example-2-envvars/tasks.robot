@@ -4,4 +4,4 @@ Documentation       Template robot main suite.
 
 *** Tasks ***
 Minimal task
-    Log    Done.
+    Log    %{WEB_PAGE1}
