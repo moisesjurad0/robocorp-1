@@ -12,3 +12,9 @@ This is the simplest template to start from.
 - [Robocorp Developer Training Courses](https://robocorp.com/docs/courses)
 - [Documentation links on Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework)
 - [Example bots in Robocorp Portal](https://robocorp.com/portal)
+
+## Links
+
+Codigo hecho siguiento el tutorial de :
+
+<https://www.youtube.com/watch?v=-i364-ZMpII&list=PLgSxNxbk3DbPcfZiC_Rp2dlEjg9mMQbcj&index=3>
